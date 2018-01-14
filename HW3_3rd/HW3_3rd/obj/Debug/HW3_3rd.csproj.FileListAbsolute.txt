@@ -1,0 +1,10 @@
+C:\Users\DanteJ_M\source\repos\HW3_3rd\HW3_3rd\obj\Debug\HW3_3rd.csprojResolveAssemblyReference.cache
+C:\Users\DanteJ_M\source\repos\HW3_3rd\HW3_3rd\obj\Debug\HW3_3rd.Properties.Resources.resources
+C:\Users\DanteJ_M\source\repos\HW3_3rd\HW3_3rd\obj\Debug\HW3_3rd.csproj.GenerateResource.Cache
+C:\Users\DanteJ_M\source\repos\HW3_3rd\HW3_3rd\obj\Debug\HW3_3rd.csproj.CoreCompileInputs.cache
+C:\Users\DanteJ_M\source\repos\HW3_3rd\HW3_3rd\obj\Debug\HW3_3rd.Form1.resources
+C:\Users\DanteJ_M\source\repos\HW3_3rd\HW3_3rd\bin\Debug\HW3_3rd.exe.config
+C:\Users\DanteJ_M\source\repos\HW3_3rd\HW3_3rd\bin\Debug\HW3_3rd.exe
+C:\Users\DanteJ_M\source\repos\HW3_3rd\HW3_3rd\bin\Debug\HW3_3rd.pdb
+C:\Users\DanteJ_M\source\repos\HW3_3rd\HW3_3rd\obj\Debug\HW3_3rd.exe
+C:\Users\DanteJ_M\source\repos\HW3_3rd\HW3_3rd\obj\Debug\HW3_3rd.pdb

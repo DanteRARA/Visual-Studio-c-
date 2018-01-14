@@ -1,0 +1,10 @@
+C:\Users\DanteJ_M\source\repos\HW_crap\HW_crap\bin\Debug\HW_crap.exe.config
+C:\Users\DanteJ_M\source\repos\HW_crap\HW_crap\bin\Debug\HW_crap.exe
+C:\Users\DanteJ_M\source\repos\HW_crap\HW_crap\bin\Debug\HW_crap.pdb
+C:\Users\DanteJ_M\source\repos\HW_crap\HW_crap\obj\Debug\HW_crap.csprojResolveAssemblyReference.cache
+C:\Users\DanteJ_M\source\repos\HW_crap\HW_crap\obj\Debug\HW_crap.Form1.resources
+C:\Users\DanteJ_M\source\repos\HW_crap\HW_crap\obj\Debug\HW_crap.Properties.Resources.resources
+C:\Users\DanteJ_M\source\repos\HW_crap\HW_crap\obj\Debug\HW_crap.csproj.GenerateResource.Cache
+C:\Users\DanteJ_M\source\repos\HW_crap\HW_crap\obj\Debug\HW_crap.csproj.CoreCompileInputs.cache
+C:\Users\DanteJ_M\source\repos\HW_crap\HW_crap\obj\Debug\HW_crap.exe
+C:\Users\DanteJ_M\source\repos\HW_crap\HW_crap\obj\Debug\HW_crap.pdb

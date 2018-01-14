@@ -1,0 +1,10 @@
+C:\Users\DanteJ_M\source\repos\HW3_4th\HW3_4th\bin\Debug\HW3_4th.exe.config
+C:\Users\DanteJ_M\source\repos\HW3_4th\HW3_4th\bin\Debug\HW3_4th.exe
+C:\Users\DanteJ_M\source\repos\HW3_4th\HW3_4th\bin\Debug\HW3_4th.pdb
+C:\Users\DanteJ_M\source\repos\HW3_4th\HW3_4th\obj\Debug\HW3_4th.csprojResolveAssemblyReference.cache
+C:\Users\DanteJ_M\source\repos\HW3_4th\HW3_4th\obj\Debug\HW3_4th.Form1.resources
+C:\Users\DanteJ_M\source\repos\HW3_4th\HW3_4th\obj\Debug\HW3_4th.Properties.Resources.resources
+C:\Users\DanteJ_M\source\repos\HW3_4th\HW3_4th\obj\Debug\HW3_4th.csproj.GenerateResource.Cache
+C:\Users\DanteJ_M\source\repos\HW3_4th\HW3_4th\obj\Debug\HW3_4th.csproj.CoreCompileInputs.cache
+C:\Users\DanteJ_M\source\repos\HW3_4th\HW3_4th\obj\Debug\HW3_4th.exe
+C:\Users\DanteJ_M\source\repos\HW3_4th\HW3_4th\obj\Debug\HW3_4th.pdb

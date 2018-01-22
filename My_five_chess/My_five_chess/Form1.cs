@@ -23,34 +23,39 @@ namespace My_five_chess {
         }
 
         bool placeORnot = false;
+        static int[,] table = new int[15, 15];
         private void Form1_MouseDown(object sender, MouseEventArgs e) {
             //把棋盤陣列化，並給予編號
-            int[,] table = new int[15, 15];
-            int count = 0;
-            for (int i = 0; i < 15; i++) {
-                for (int j = 0; j < 15; j++) {
-                    if (whoseTurn == true ){
-                        table[i, j] = 0; //black
-                    } else if (whoseTurn == false) {
-                        table[i, j] = 1; //white
-                    }
-                }
-            }
+            
             int x = borad.FindTheClosetNode(e.X, e.Y).X;
             int y = borad.FindTheClosetNode(e.X, e.Y).Y;
             label3.Text = x.ToString() + "," + y.ToString();
             //判斷是否可以放棋子
+            int black = 1, white = 2;
             if(placeORnot) {
                 //判斷該誰下棋
                 if (whoseTurn == true) {
                     this.Controls.Add(new black((x * 55) + 65 - 20, (y * 55) + 65 - 20));
                     whoseTurn = false;
-
+                    table[x, y] = black;
+                    ccheck(black);
                 } else if (whoseTurn == false) {
                     this.Controls.Add(new white((x * 55) + 65 - 20, (y * 55) + 65 - 20));
                     whoseTurn = true;
+                    table[x, y] = white;
+                    ccheck(white);
                 }
+               
             }
+            
+        }
+        private void ccheck(int who) {
+            int black = 1, white = 2;
+            whoseWin hW = new whoseWin();
+            if (hW.winCheck(who, table) == black)
+                MessageBox.Show("Black WIN!!!");
+            else if (hW.winCheck(who, table) == white)
+                MessageBox.Show("White WIN!!!!");
         }
 
         private void Form1_MouseMove(object sender, MouseEventArgs e) {

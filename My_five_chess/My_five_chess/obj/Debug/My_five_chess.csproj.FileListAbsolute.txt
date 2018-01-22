@@ -8,3 +8,13 @@ C:\Users\DanteJ_M\source\repos\My_five_chess\My_five_chess\obj\Debug\My_five_che
 C:\Users\DanteJ_M\source\repos\My_five_chess\My_five_chess\obj\Debug\My_five_chess.csproj.CoreCompileInputs.cache
 C:\Users\DanteJ_M\source\repos\My_five_chess\My_five_chess\obj\Debug\My_five_chess.exe
 C:\Users\DanteJ_M\source\repos\My_five_chess\My_five_chess\obj\Debug\My_five_chess.pdb
+D:\Learning\VisualStudioC#\My_five_chess\My_five_chess\bin\Debug\My_five_chess.exe.config
+D:\Learning\VisualStudioC#\My_five_chess\My_five_chess\bin\Debug\My_five_chess.exe
+D:\Learning\VisualStudioC#\My_five_chess\My_five_chess\bin\Debug\My_five_chess.pdb
+D:\Learning\VisualStudioC#\My_five_chess\My_five_chess\obj\Debug\My_five_chess.csprojResolveAssemblyReference.cache
+D:\Learning\VisualStudioC#\My_five_chess\My_five_chess\obj\Debug\My_five_chess.Form1.resources
+D:\Learning\VisualStudioC#\My_five_chess\My_five_chess\obj\Debug\My_five_chess.Properties.Resources.resources
+D:\Learning\VisualStudioC#\My_five_chess\My_five_chess\obj\Debug\My_five_chess.csproj.GenerateResource.Cache
+D:\Learning\VisualStudioC#\My_five_chess\My_five_chess\obj\Debug\My_five_chess.csproj.CoreCompileInputs.cache
+D:\Learning\VisualStudioC#\My_five_chess\My_five_chess\obj\Debug\My_five_chess.exe
+D:\Learning\VisualStudioC#\My_five_chess\My_five_chess\obj\Debug\My_five_chess.pdb
